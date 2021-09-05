@@ -3,3 +3,4 @@
 *Basically it gave exposure to file handling, and also to work with non tabulate such as no sql.
 *Since it was step by step process it gave proper idea of how things work in the process of inventary management.
 *And made design the code in a proper manner and excuete IT.
+*few things that have used is json,loads,read,write.....etc
