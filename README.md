@@ -13,7 +13,9 @@
 
 ->the code consist of three parts
         1.add the items to inventory
+        
         2.bill according to purchaser
+        
         3.the file the sales that is made
          
 ->project is basically I took how the IMS works in ice cream parlour,
