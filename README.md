@@ -1,17 +1,23 @@
 # IMS
 *It was very nice work nice to work on this project ,which thought me few new things such as how to work on json files etc.
+
 *Basically it gave exposure to file handling, and also to work with non tabulate such as no sql.
+
 *Since it was step by step process it gave proper idea of how things work in the process of inventary management.
+
 *And made design the code in a proper manner and excuete IT.
+
 *few things that have used is json,loads,read,write.....etc
 
 ->I have used json files, in the project
           they are record.json and sales.json
 
-        1.record.json ,I used it to read the file and add if any stocks to be added and then bill then the reduced items are updated in record 
-        2.sales.json,I used it after billing what is the sales . 
+   1.record.json ,I used it to read the file and add if any stocks to be added and then bill then the reduced items are updated in record 
+   
+    2.sales.json,I used it after billing what is the sales . 
 
-->the code consist of three parts
+->the code consist of three parts:
+
         1.add the items to inventory
         
         2.bill according to purchaser
